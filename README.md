@@ -7,8 +7,11 @@ Pengaturan tata letak HTML dengan CSS
 [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr)
 
 ## Teori :
+
 ### Display
 1. inline
 2. inline-block
 3. block
 4. none
+
+### Dimensi & Overflow
